@@ -1,0 +1,73 @@
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe.config
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.SideScroller.resources
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.Properties.Resources.resources
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\Computer Science 11\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csprojResolveAssemblyReference.cache
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe.config
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.exe
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.pdb
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.pdb
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csprojResolveAssemblyReference.cache
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.SideScroller.resources
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.Properties.Resources.resources
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.GenerateResource.Cache
+D:\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.CoreCompileInputs.cache
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe.config
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.SideScroller.resources
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.Properties.Resources.resources
+C:\Users\Jacky\Desktop\AssignmentTwoSideScroller\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe.config
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.SideScroller.resources
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.Properties.Resources.resources
+C:\Users\Jacky\Desktop\animationg\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe.config
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.SideScroller.resources
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.Properties.Resources.resources
+C:\Users\Jacky\Desktop\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe.config
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.SideScroller.resources
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.Properties.Resources.resources
+C:\Users\Jacky\Desktop\a comp sci ass 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe.config
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.SideScroller.resources
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.Properties.Resources.resources
+C:\Users\Jacky\Desktop\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe.config
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\bin\Debug\AssignmentTwoSideScroller.pdb
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.SideScroller.resources
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.Properties.Resources.resources
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.exe
+C:\Users\Jacky\Desktop\Grade 11\CS 11 U\GraDe 11 Uni Comp Sci ASSignment 2\exterimental\AssignmentTwoSideScroller\obj\Debug\AssignmentTwoSideScroller.pdb
